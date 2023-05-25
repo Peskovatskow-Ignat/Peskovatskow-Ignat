@@ -5,7 +5,7 @@
 </div>
 
 
-- ⚡ Fun fact:  **I'm interesting**
+- ⚡ Fun fact:  **I'm love cyber security**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
