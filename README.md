@@ -26,6 +26,8 @@
 <p it align="left">
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1-1.svg" alt="mongodb" width="40" height="40"/> </a>
+<a href="https://ru.wikipedia.org/wiki/Redis" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="mongodb" width="40" height="40"/> </a>
+
 </p>
 <p>Инструменты тестирования</p>
 <p it align="left">
