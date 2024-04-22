@@ -34,7 +34,7 @@
 <a href="https://www.kali.org/tools/burpsuite" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" alt="burp suite" width="40" height="40"/> </a>
 <a href="https://www.kali.org/tools/sqlmap" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" alt="sqlmap" width="40" height="40"/> </a>
 <a href="https://www.kali.org/tools/zaproxy" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/zaproxy/images/zaproxy-logo.svg" alt="sqlmap" width="40" height="40"/> </a>
-<a href="://www.kali.org/tools/metasploit-framework" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" alt="sqlmap" width="40" height="40"/> </a>
+<a href="https://www.kali.org/tools/metasploit-framework" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" alt="sqlmap" width="40" height="40"/> </a>
 <a href="https://www.kali.org/tools/nmap" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" alt="sqlmap" width="40" height="40"/> </a>
 </p>
 <p it align="left">
