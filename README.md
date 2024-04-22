@@ -34,6 +34,8 @@
 <a href="https://www.kali.org/tools/zaproxy" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/zaproxy/images/zaproxy-logo.svg" alt="sqlmap" width="40" height="40"/> </a>
 <a href="://www.kali.org/tools/metasploit-framework" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" alt="sqlmap" width="40" height="40"/> </a>
 <a href="https://www.kali.org/tools/nmap" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" alt="sqlmap" width="40" height="40"/> </a>
+</p>
+<p it align="left">
 <a href="https://www.kali.org/tools/aircrack-ng" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/aircrack-ng/images/aircrack-ng-logo.svg" alt="aircrack-ng" width="40" height="40"/> </a>
 <a href="https://www.kali.org/tools/hashcat" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/hashcat/images/hashcat-logo.svg" alt="hashcat" width="40" height="40"/> </a>
 <a href="https://www.kali.org/tools/beef-xss" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/beef-xss/images/beef-xss-logo.svg" alt="beef" width="40" height="40"/> </a>
